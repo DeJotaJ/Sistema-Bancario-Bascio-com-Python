@@ -1,6 +1,6 @@
-# Sistema Bancário Básico em Python
+# Sistema Bancário Básico em Python - DIO Bootcamp Python
 
-Este é um projeto simples de um sistema bancário, desenvolvido em Python, destinado a iniciantes. O projeto usa estruturas de repetição, estruturas condicionais, formatação de string e importação de módulos para implementar funcionalidades básicas de um sistema bancário, como criação de conta, consulta de saldo, depósito e saque.
+Este é um projeto simples de um sistema bancário, desenvolvido em Python, fazendo parte do Bootcamp da DIO, destinado a iniciantes. O projeto usa estruturas de repetição, estruturas condicionais, formatação de string e importação de módulos para implementar funcionalidades básicas de um sistema bancário, como criação de conta, consulta de saldo, depósito e saque.
 
 ## Funcionalidades
 
