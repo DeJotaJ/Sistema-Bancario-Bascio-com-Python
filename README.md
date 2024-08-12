@@ -7,6 +7,9 @@ Este é um projeto simples de um sistema bancário, desenvolvido em Python, faze
 - **Consultar Saldo:** Permite ao usuário verificar o saldo da conta.
 - **Depósito:** Permite ao usuário depositar dinheiro na conta.
 - **Saque:** Permite ao usuário sacar dinheiro da conta.
+- **Criar Usuário:**
+- **Criar Conta Corrente**
+- **Consultar uma Conta Corrente**
 
 ## Tecnologias Utilizadas
 
